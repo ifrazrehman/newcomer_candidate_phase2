@@ -2,7 +2,7 @@ Newcomer Candidates Repositories
 ====================
 We are researching the newcomer candidates initial contributions in open source software projects.
 
-Please visit our [result](http://kin-y.github.io/miningReviewRepo/) to download the code review dataset.
+For details about this project, please visit our [result](http://kin-y.github.io/miningReviewRepo/).
 
 Our research group include the following active members:
 - [Ifraz Rehman](https://ifrazrehman.github.io/) (Master Student, Nara Institute Of Science and Technology, Japan)
