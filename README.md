@@ -1,11 +1,12 @@
-Mining Code Review Repositories
+Newcomer Candidates Repositories
 ====================
-We are researching the code review process in open source software projects.
+We are researching the newcomer candidates initial contributions in open source software projects.
 
-Please visit our [dataset page](http://kin-y.github.io/miningReviewRepo/) to download the code review dataset.
+Please visit our [result](http://kin-y.github.io/miningReviewRepo/) to download the code review dataset.
 
 Our research group include the following active members:
-- [Xin Yang](http://www.nemocap.org/) (Specially appointed researcher, Osaka University, Japan)
-- [Raula Gaikovina Kula](http://sel.ist.osaka-u.ac.jp/people/raula-k/) (Assistant professor, Osaka University, Japan)
-- [Norihiro Yoshida](https://sites.google.com/site/yoshidaatnu/) (Associate professor, Nagoya University, Japan)
-- [Hajimu Iida](http://sdlab.naist.jp/member_iida.html/) (Professor, Nara Institute of Science and Technology, Japan)
+- [Ifraz Rehman](https://ifrazrehman.github.io/) (Master Student, Nara Institute Of Science and Technology, Japan)
+- [Dong Wang] (Phd Student, Nara Institute Of Science and Technology, Japan)
+- [Raula Gaikovina Kula](http://sel.ist.osaka-u.ac.jp/people/raula-k/) (Assistant professor, Nara Institute of Science and Technology, Japan)
+- [Takashi Ishio](https://takashi-ishio.github.io/) (Associate professor, Nara Institute of Science and Technology, Japan)
+- [Kenichi Matsumoto](https://matsumotokenichi.github.io/) (Professor, Nara Institute of Science and Technology, Japan)
