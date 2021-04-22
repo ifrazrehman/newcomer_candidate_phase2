@@ -2,7 +2,7 @@ Newcomer Candidates Repositories
 ====================
 We are researching the newcomer candidates initial contributions in open source software projects.
 
-For details about this project, please visit our [result](https://ifrazrehman.github.io/newcomercandidate_phase2/).
+For details about this project, please visit our [result](https://ifrazrehman.github.io/newcomer_candidate_phase2/).
 
 Our research group include the following active members:
 - [Ifraz Rehman](https://ifrazrehman.github.io/) (Master Student, Nara Institute Of Science and Technology, Japan)
